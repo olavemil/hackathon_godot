@@ -1,0 +1,8 @@
+C:\Git\office-godot\.mono\temp\bin\Debug\Office-godot.dll
+C:\Git\office-godot\.mono\temp\bin\Debug\Office-godot.pdb
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.csprojAssemblyReference.cache
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.csproj.CoreCompileInputs.cache
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.AssemblyInfoInputs.cache
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.AssemblyInfo.cs
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.dll
+C:\Git\office-godot\.mono\temp\obj\Debug\Office-godot.pdb
